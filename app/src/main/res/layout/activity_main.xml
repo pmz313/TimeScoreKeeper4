@@ -11,7 +11,7 @@
         android:paddingLeft="16dp"
         android:paddingRight="16dp"
         android:paddingTop="16dp"
-        tools:context="com.example.android.timescorekeeper4.MainActivity">
+        tools:context="com.something.android.timescorekeeper4.MainActivity">
 
         <LinearLayout
             android:layout_width="match_parent"
