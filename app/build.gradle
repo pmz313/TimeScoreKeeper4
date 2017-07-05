@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "com.example.android.timescorekeeper4"
+        applicationId "com.something.android.timescorekeeper4"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
