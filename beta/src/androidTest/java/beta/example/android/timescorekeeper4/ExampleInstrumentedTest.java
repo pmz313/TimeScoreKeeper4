@@ -1,4 +1,4 @@
-package com.example.android.timescorekeeper4;
+package beta.example.android.timescorekeeper4;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
