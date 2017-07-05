@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Time Score Keeper</string>
+    <string name="red">red</string>
+    <string name="ring">Ring #</string>
+    <string name="white">white</string>
+    <string name="name">Name</string>
+    <string name="name2">Name</string>
+    <string name="points">points</string>
+    <string name="fouls">Fouls</string>
+    <string name="face_n_contact">Face \n contact</string>
+    <string name="reset">Reset</string>
+
+    <string name="enter_minutes">Minutes</string>
+    <string name="start_timer">Start</string>
+    <string name="stop_timer">Stop</string>
+    <string name="reset_timer">Reset</string>
+    <string name="timer">00:00</string>
+</resources>
