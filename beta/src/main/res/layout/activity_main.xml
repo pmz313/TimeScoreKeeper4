@@ -31,7 +31,7 @@
                 android:maxLength="2"
                 android:textColor="#000000"
                 android:textColorHint="#9E9E9E"
-                android:textSize="20sp" />
+                android:textSize="18sp" />
 
             <TextView
                 android:id="@+id/countdownText"
@@ -42,7 +42,7 @@
                 android:gravity="center"
                 android:text="@string/timer"
                 android:textColor="#000000"
-                android:textSize="32sp"
+                android:textSize="28sp"
                 android:textStyle="bold" />
 
             <Button
@@ -56,7 +56,7 @@
                 android:padding="10dp"
                 android:text="Start"
                 android:textColor="#000000"
-                android:textSize="16sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
 
             <Button
@@ -65,13 +65,13 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginRight="6dp"
                 android:layout_weight="1"
                 android:gravity="center"
                 android:padding="10dp"
                 android:text="Reset"
                 android:textColor="#000000"
-                android:textSize="16sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
 
         </LinearLayout>
